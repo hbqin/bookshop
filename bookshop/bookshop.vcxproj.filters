@@ -18,5 +18,16 @@
     <ClCompile Include="bookshop.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="spin_lock.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="cpplang.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="spin_lock.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
